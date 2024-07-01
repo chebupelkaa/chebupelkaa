@@ -5,10 +5,9 @@
 
 <div id="socials" align="center"  text-decoration="none;">
   
-  <a href="https://ru.stackoverflow.com/questions/1108919/Текст-и-картинка-единая-ссылка"> <img src="http://via.placeholder.com/250x250/33ff99/555555?text=Foto" width="60"> </a>
   <a href="https://vk.com/chebupelkaaa"> <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"/></a>
   
-  <a href="https://t.me/chupik60" text-decoration="none;"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/chupik60" > <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   
 </div>
 
