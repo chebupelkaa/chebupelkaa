@@ -4,19 +4,16 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://t.me/chupik60">
-    <img src="https://img.icons8.com/?size=100&id=7xE9VDBMDtZ0&format=png&color=000000" alt="Telegram" width="60" />
-  </a>
-
-  <a href="https://vk.com/chebupelkaaa">
-    <img src="https://img.icons8.com/?size=100&id=sVtmbzqQoAoC&format=png&color=000000" alt="VK" width="60" >
-  </a>
   
-  <a href="https://discord.gg//meiko2683">
-    <img src="https://img.icons8.com/?size=100&id=n35VW8czPq4Q&format=png&color=000000" 
-      alt="Discord" width="60"  />
+  <a href="https://vk.com/chebupelkaaa">
+      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte">
   </a>
-
+  <a href="https://t.me/chupik60">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://discord.gg//meiko2683">
+      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
   
 </div>
 <!-- 👋
