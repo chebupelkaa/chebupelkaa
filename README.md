@@ -11,7 +11,7 @@
   <a href="https://t.me/chupik60">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.gg//meiko2683">
+  <a href="https://discordapp.com/users/meiko2683/">
       <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   
