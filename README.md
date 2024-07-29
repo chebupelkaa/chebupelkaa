@@ -23,8 +23,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" title="nuget" width="40" height="40"/>&nbsp;
 
-<br>
-<div align="center">
-  <a href="https://discordapp.com/users/meiko2683/"> <img src="https://lanyard.kyrie25.me/api/463765025199489025?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&useDisplayName=true&decoration=true"  /> </a>
-  <br>
-</div>
+
