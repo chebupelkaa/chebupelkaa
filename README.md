@@ -22,5 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="microsoftsqlserver" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" title="nuget" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
 
 
